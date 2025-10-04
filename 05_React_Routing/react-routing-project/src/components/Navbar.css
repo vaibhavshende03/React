@@ -1,0 +1,16 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    background-color: rgb(216, 216, 216);
+    padding-right: 10px;
+}
+
+.active-link {
+    border-bottom: 1px solid red;
+}
+
+nav {
+    display: block;
+}
